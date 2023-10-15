@@ -1,4 +1,4 @@
-![NeuroStartUpIcon](https://github.com/GornDima/GornDZ2/assets/147096224/2ccbd7bf-aa9f-4874-92e3-a829779c2b1c)
+# ![Логотип NeuroStartUp]![NeuroStartUpIcon](https://github.com/GornDima/GornDZ2/assets/147096224/2ccbd7bf-aa9f-4874-92e3-a829779c2b1c)
  NeuroStartUp
 
 **Искусственный интеллект, решающий ваши бизнес-задачи.** Воспользуйтесь современными возможностями искусственного интеллекта, оставив конкурентов позади!
